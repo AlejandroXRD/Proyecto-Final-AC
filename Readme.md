@@ -1,6 +1,6 @@
 # Proyecto #8
 
-Este es el proyecto #8 de la materia de Arquitectura de Computadoras de la Universidad Nacional Experimental del Táchira (UNET), realizado por Alejandro Javier Arevalo Milian.
+Este es el proyecto #8 de la materia de Arquitectura de Computadoras de la Universidad de Matanzas "Camilo Cienfuegos", realizado por Alejandro Javier Arevalo Milian del grupo Informática 2do Año.
 
 El programa implementa el algoritmo de ordenamiento QuickSort en lenguaje ensamblador para ordenar un arreglo de 8 números ingresados por el usuario. El programa permite al usuario elegir entre ordenar el arreglo o salir del programa.
 
