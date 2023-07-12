@@ -17,4 +17,4 @@ Una vez ejecutado el programa se mostrará un menú que permite al usuario elegi
 ## Autor
 
 Alejandro Javier Arevalo Milian es el autor de este proyecto. El código fuente se encuentra disponible en su cuenta de GitHub: [
-(https://github.com/AlejandroXRD/Proyecto-Final-AC/tree/main#readme)
+(https://github.com/AlejandroXRD/Proyecto-Final-AC)
